@@ -33,4 +33,4 @@ The dashboard includes:
 - `CodeAlpha_EducationDashboard.pdf` — Exported dashboard view
 
 ---
-Submitted as part of the CodeAlpha Power BI Internship (Task 4).
+Submitted as part of the CodeAlpha Power BI Internship (Task 3).
